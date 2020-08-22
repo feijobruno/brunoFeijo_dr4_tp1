@@ -1,0 +1,4 @@
+E:\01.Infnet\06.Net\Projetos\aspNetApi\Feijo.tp1\Repository\bin\Debug\netcoreapp3.1\Domain.dll
+E:\01.Infnet\06.Net\Projetos\aspNetApi\Feijo.tp1\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+E:\01.Infnet\06.Net\Projetos\aspNetApi\Feijo.tp1\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+E:\01.Infnet\06.Net\Projetos\aspNetApi\Feijo.tp1\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
